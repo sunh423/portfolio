@@ -1,0 +1,22 @@
+.jumbotron {
+  background-image: url("wallpaper.jpg");
+  background-size: cover;
+}
+
+body {
+  background-color: #f6f9fc;
+  color: #3c455d;
+  font-family: 'Raleway', sans-serif;
+}
+
+.brand {
+  font-family: 'Teko', sans-serif;
+}
+
+h2 {
+  color: #14171f
+}
+
+.primc {
+  color: #14171f
+}
