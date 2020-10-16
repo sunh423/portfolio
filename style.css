@@ -6,11 +6,15 @@
 body {
   background-color: #f6f9fc;
   color: #3c455d;
-  font-family: 'Raleway', sans-serif;
+  /* font-family: 'Raleway', sans-serif; */
 }
 
 .brand {
   font-family: 'Teko', sans-serif;
+}
+
+.card-title {
+  font-size: 1.6rem;
 }
 
 h2 {
