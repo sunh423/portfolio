@@ -9,18 +9,86 @@ body {
   /* font-family: 'Raleway', sans-serif; */
 }
 
+.btn-light {
+  background-color: #f8f9fa;
+}
 .brand {
-  font-family: 'Teko', sans-serif;
+  font-family: "Teko", sans-serif;
 }
 
 .card-title {
   font-size: 1.6rem;
 }
 
+.btn-outline-success {
+  color: #247838;
+}
+
+h1 {
+  color: #14171f;
+}
+
 h2 {
-  color: #14171f
+  color: #14171f;
+}
+
+h3 {
+  color: #14171f;
+}
+
+h4 {
+  color: #14171f;
+}
+
+h5 {
+  color: #14171f;
 }
 
 .primc {
-  color: #14171f
+  color: #14171f;
 }
+
+#toc_container {
+  background: #f9f9f9 none repeat scroll 0 0;
+  border: 1px solid #aaa;
+  /* display: table; */
+  width: auto;
+}
+
+.toc_title {
+  font-weight: 700;
+  text-align: center;
+}
+
+#toc_container li,
+#toc_container ul,
+#toc_container ul li {
+  list-style: outside none none !important;
+  font-size: 1rem;
+}
+
+hr {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  width: 50%;
+}
+
+a.contact:link {
+  color: #3c455d;
+}
+
+/* visited link */
+a.contact:visited {
+  color: #3c455d;
+}
+
+/* mouse over link */
+a.contact:hover {
+  color: #3c455d;
+}
+
+/* selected link */
+a.contact:active {
+  color: #3c455d;
