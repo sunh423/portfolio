@@ -75,6 +75,9 @@ hr {
   width: 50%;
 }
 
+.project-link:hover {
+  transition: all 0.15s ease;
+}
 a.contact:link {
   color: #3c455d;
 }
