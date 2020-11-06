@@ -93,3 +93,7 @@ a.contact:hover {
 a.contact:active {
   color: #3c455d;
 }
+
+html {
+  scroll-behavior: smooth;
+}
